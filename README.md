@@ -29,9 +29,7 @@ Click on stop when you're done
 **Notes:**
 
 ·       
-This is recommended for one person alone, it will work with more than one, but in order to pause,
-all the faces have to turn away from the camera
+This is recommended for one person alone, it will work with more than one, but in order to pause, all the faces have to turn away from the camera
 
 ·       
-You must download OpenCV and add it to the
-project path yourself using whichever IDE you use
+You must download OpenCV and add it to the project path yourself using whichever IDE you use
